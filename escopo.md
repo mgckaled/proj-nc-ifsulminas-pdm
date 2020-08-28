@@ -3,7 +3,7 @@
 ### HITÓRICO DE ATUALIZAÇÕES:
 | **Versão** |  **Data**  |       **Responsáveis**        |       **Descrição**       |
 | :--------: | :--------: | :---------------------------: | :-----------------------: |
-|    1.0     | 28/10/2020 | Gabriel Moreno e Marcel Kaled | Versão inicial do projeto |
+|    1.0     | 28/08/2020 | Gabriel Moreno e Marcel Kaled | Versão inicial do projeto |
 |            |            |                               |                           |
 
 <br>
@@ -89,7 +89,7 @@ As entregas foram estruturadas conforme EAP abaixo.
 
 ### Aprovações:
 
-|    **Participante**    |       **Assinatura**       |  **Data**  |
+|    **Participante**     |       **Assinatura**        |  **Data**  |
 | :---------------------: | :-------------------------: | :--------: |
 | Patrocinador do Projeto | Novos Caminhos (IFSULMINAS) | 28/08/2020 |
 | Resposável pelo Projeto |  Marcelo Rodrigo de Castro  | 28/08/2020 |
