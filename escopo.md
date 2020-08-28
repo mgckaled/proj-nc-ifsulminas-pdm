@@ -1,7 +1,7 @@
 <h1 align="center"> DECLARAÇÃO DE ESCOPO DO PROJETO</h1>
 
 ### HITÓRICO DE ATUALIZAÇÕES:
-| **Versão** |  **Data**  |       **Responsáveis**        |       **Descrição**       |
+| **Versão** |  **Data**  |         **Autor(es)**         |       **Descrição**       |
 | :--------: | :--------: | :---------------------------: | :-----------------------: |
 |    1.0     | 28/08/2020 | Gabriel Moreno e Marcel Kaled | Versão inicial do projeto |
 |            |            |                               |                           |
