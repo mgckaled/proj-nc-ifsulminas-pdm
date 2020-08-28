@@ -24,7 +24,6 @@ Sumário
 <br>
 
 ## Objetivos deste documento
----
 
 Este documento tem como objetivo apresentar o projeto de aplicação
 mobile com integração a sistemas de automação do mercado, que será
@@ -35,7 +34,6 @@ real.
 <br>
 
 ## Situação atual e justificativa do projeto
----
 
 O projeto terá início com base no aprendizado do curso Programador de
 Dispositivos Móveis, sendo assim motivado pela necessidade latente de
@@ -45,7 +43,6 @@ Caraguatatuba-SP.
 <br>
 
 ## Objetivos SMART e critérios de sucesso do projeto
----
 
 O projeto será considerado um sucesso, caso consigamos fazer uma ótima
 integração com as informações já contidas no sistema e apresentando ao
@@ -55,7 +52,6 @@ garantindo assim a aceitação do produto pelo publico alvo previsto.
 <br>
 
 ## Escopo do Produto
----
 
 O produto tem como objetivo auxiliar as pessoas responsáveis pela tomada
 de decisão. Será desenvolvido, inicialmente, para sistemas de pequenas e
@@ -66,7 +62,6 @@ entendimento.
 <br>
 
 ## Estrutura Analítica do Projeto
----
 
 As entregas foram estruturadas conforme EAP abaixo.
 
