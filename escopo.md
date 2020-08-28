@@ -94,7 +94,7 @@ As entregas foram estruturadas conforme EAP abaixo.
 
 ### Aprovações:
 
-|    **Participante**     |       **Assinatura**        |  **Data**  |
+|    **Participante**    |       **Assinatura**       |  **Data**  |
 | :---------------------: | :-------------------------: | :--------: |
 | Patrocinador do Projeto | Novos Caminhos (IFSULMINAS) | 28/08/2020 |
 | Resposável pelo Projeto |  Marcelo Rodrigo de Castro  | 28/08/2020 |
