@@ -11,15 +11,15 @@
 Sumário 
 =======
 
-[1 Objetivos deste documento 1](#objetivos-deste-documento)
+[1 Objetivos deste documento](#objetivos-deste-documento)
 
 [2 Situação atual e justificativa do projeto](#situação-atual-e-justificativa-do-projeto)
 
 [3 Objetivos SMART e critérios de sucesso do projeto](#objetivos-smart-e-critérios-de-sucesso-do-projeto)
 
-[4 Escopo do Produto 2](#escopo-do-produto)
+[4 Escopo do Produto](#escopo-do-produto)
 
-[5 Estrutura Analítica do Projeto 2](#estrutura-analítica-do-projeto)
+[5 Estrutura Analítica do Projeto](#estrutura-analítica-do-projeto)
 
 <br>
 
