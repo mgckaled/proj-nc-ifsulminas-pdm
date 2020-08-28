@@ -1,10 +1,14 @@
-  ------------------------- ------------ ------------------------- ---------------------------
-  **Controle de Versões**                                          
-  **Versão**                **Data**     **Autor(es)**             **Notas da Revisão**
-  1.0                       26/10/2020   Gabriel Moreno Medeiros   Versão inicial do projeto
-  ------------------------- ------------ ------------------------- ---------------------------
+<h1 align="center"> DECLARAÇÃO DE ESCOPO DO PROJETO</h1>
 
-Sumário {#sumário .TOC-Heading}
+### HITÓRICO DE ATUALIZAÇÕES:
+| **Versão** |  **Data**  |       **Responsáveis**        |       **Descrição**       |
+| :--------: | :--------: | :---------------------------: | :-----------------------: |
+|    1.0     | 28/10/2020 | Gabriel Moreno e Marcel Kaled | Versão inicial do projeto |
+|            |            |                               |                           |
+
+<br>
+
+Sumário 
 =======
 
 [1 Objetivos deste documento 1](#objetivos-deste-documento)
@@ -19,6 +23,7 @@ Sumário {#sumário .TOC-Heading}
 
 [5 Estrutura Analítica do Projeto 2](#estrutura-analítica-do-projeto)
 
+<br>
 Objetivos deste documento
 =========================
 
@@ -28,6 +33,7 @@ desenvolvido para auxiliar na tomada de decisão apresentando, assim,
 todos os dados de estoque de produtos e movimentação de caixa em tempo
 real.
 
+<br>
 Situação atual e justificativa do projeto
 =========================================
 
@@ -36,6 +42,7 @@ Dispositivos Móveis, sendo assim motivado pela necessidade latente de
 proprietários de estabelecimentos comerciais da cidade de
 Caraguatatuba-SP.
 
+<br>
 Objetivos SMART e critérios de sucesso do projeto
 =================================================
 
@@ -44,6 +51,7 @@ integração com as informações já contidas no sistema e apresentando ao
 usuário de maneira intuitiva e objetiva as informações solicitadas,
 garantindo assim a aceitação do produto pelo publico alvo previsto.
 
+<br>
 Escopo do Produto
 =================
 
@@ -53,6 +61,7 @@ médias empresas, podendo assim ser considerado um produto com
 informações básicas na tomada de decisões e telas simples de fácil
 entendimento.
 
+<br>
 Estrutura Analítica do Projeto
 ==============================
 
@@ -78,9 +87,16 @@ As entregas foram estruturadas conforme EAP abaixo.
 
 4.  Integração com sistema de automação
 
-  ------------------------- --------------------------- ------------
-  **Aprovações**                                        
-  **Participante**          **Assinatura**              **Data**
-  Patrocinador do Projeto   Novos Caminhos (FIC)        23/06/2020
-  Gerente do Projeto        Marcelo Rodrigo de Castro   07/07/2020
-  ------------------------- --------------------------- ------------
+<br>
+
+### Aprovações:
+
+|    **Participante**     |       **Assinatura**        |  **Data**  |
+| :---------------------: | :-------------------------: | :--------: |
+| Patrocinador do Projeto | Novos Caminhos (IFSULMINAS) | 28/08/2020 |
+| Resposável pelo Projeto |  Marcelo Rodrigo de Castro  | 28/08/2020 |
+| Resposável pelo Projeto | Marcel Gaudard Cheik Kaled  | 28/08/2020 |
+
+
+
+
