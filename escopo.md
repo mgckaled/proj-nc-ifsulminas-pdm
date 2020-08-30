@@ -21,7 +21,6 @@ Sumário
 
 [5 Estrutura Analítica do Projeto](#estrutura-analítica-do-projeto)
 
-<br>
 
 ## Objetivos deste documento
 
@@ -30,14 +29,12 @@ mobile com integração a sistemas de automação do mercado, que será
 desenvolvido para auxiliar na tomada de decisões apresentando, assim,
 meios de auxliar o usário quanto a gestão das vendas em tempo real. 
 
-<br>
 
 ## Situação atual e justificativa do projeto
 
 O projeto terá início com base no aprendizado do curso Programador de
 Dispositivos Móveis, sendo assim motivado pela necessidade latente da gestão de vendas online em tempo real através de dispositivos móveis pelos proprietários de estabelecimentos comerciais, de uma forma geral.
 
-<br>
 
 ## Objetivos SMART e critérios de sucesso do projeto
 
@@ -46,7 +43,6 @@ integração com as informações já contidas no sistema e apresentando ao
 usuário de maneira intuitiva e objetiva as informações solicitadas,
 garantindo assim a aceitação do produto pelo publico alvo previsto.
 
-<br>
 
 ## Escopo do Produto
 
@@ -56,7 +52,6 @@ médias empresas, podendo assim ser considerado um produto com
 informações básicas na tomada de decisões e telas simples de fácil
 entendimento.
 
-<br>
 
 ## Estrutura Analítica do Projeto
 
@@ -90,7 +85,6 @@ As entregas foram estruturadas conforme EAP abaixo.
 
 4.  Integração com sistema de automação
 
-<br>
 
 ### Aprovações:
 
