@@ -3,7 +3,7 @@
 ### HITÓRICO DE ATUALIZAÇÕES:
 | **Versão** |  **Data**  |         **Autor(es)**         |       **Descrição**       |
 | :--------: | :--------: | :---------------------------: | :-----------------------: |
-|    1.0     | 28/08/2020 | Gabriel Moreno e Marcel Kaled | Versão inicial do projeto |
+|    1.0     | 28/08/2020 | Gabriel Moreno, Marcel Kaled e Carlos Braga  | Versão inicial do projeto |
 |            |            |                               |                           |
 
 <br>
@@ -25,20 +25,17 @@ Sumário
 
 ## Objetivos deste documento
 
-Este documento tem como objetivo apresentar o projeto de aplicação
+Este documento tem como objetivo definir o escopo do projeto de aplicação
 mobile com integração a sistemas de automação do mercado, que será
-desenvolvido para auxiliar na tomada de decisão apresentando, assim,
-todos os dados de estoque de produtos e movimentação de caixa em tempo
-real.
+desenvolvido para auxiliar na tomada de decisões apresentando, assim,
+meios de auxliar o usário quanto a gestão das vendas em tempo real. 
 
 <br>
 
 ## Situação atual e justificativa do projeto
 
 O projeto terá início com base no aprendizado do curso Programador de
-Dispositivos Móveis, sendo assim motivado pela necessidade latente de
-proprietários de estabelecimentos comerciais da cidade de
-Caraguatatuba-SP.
+Dispositivos Móveis, sendo assim motivado pela necessidade latente da gestão de vendas online em tempo real através de dispositivos móveis pelos proprietários de estabelecimentos comerciais, de uma forma geral.
 
 <br>
 
@@ -54,7 +51,7 @@ garantindo assim a aceitação do produto pelo publico alvo previsto.
 ## Escopo do Produto
 
 O produto tem como objetivo auxiliar as pessoas responsáveis pela tomada
-de decisão. Será desenvolvido, inicialmente, para sistemas de pequenas e
+de decisões. Será desenvolvido, inicialmente, para sistemas de pequenas e
 médias empresas, podendo assim ser considerado um produto com
 informações básicas na tomada de decisões e telas simples de fácil
 entendimento.
@@ -70,18 +67,26 @@ As entregas foram estruturadas conforme EAP abaixo.
 2.  Criação de funções
 
     1.  Movimento de caixa
+   
+    2.  Cadastro de mercadorias
 
-    2.  Estoque de produtos
-
-    3.  Relatório de vendas
+    3.  Estoque de mercadorias
+   
+    4.  Relatório de mercadorias cadastradas
+   
+    5.  Relatório de vendas
 
 3.  Criação de telas
 
     1.  Movimento de caixa
+   
+    2.  Cadastro de mercadorias
 
-    2.  Estoque de produtos
+    3.  Estoque de mercadorias
+   
+    4.  Relatório de mercadorias cadastradas
 
-    3.  Relatório de vendas
+    5.  Relatório de vendas
 
 4.  Integração com sistema de automação
 
@@ -94,6 +99,7 @@ As entregas foram estruturadas conforme EAP abaixo.
 | Patrocinador do Projeto | Novos Caminhos (IFSULMINAS) | 28/08/2020 |
 | Resposável pelo Projeto |  Marcelo Rodrigo de Castro  | 28/08/2020 |
 | Resposável pelo Projeto | Marcel Gaudard Cheik Kaled  | 28/08/2020 |
+| Resposável pelo Projeto | Carlos Alexandre de Souza Braga | 28/08/2020 |
 
 
 
