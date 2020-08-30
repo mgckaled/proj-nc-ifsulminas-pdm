@@ -27,13 +27,13 @@ Sumário
 Este documento tem como objetivo definir o escopo do projeto de aplicação
 mobile com integração a sistemas de automação do mercado, que será
 desenvolvido para auxiliar na tomada de decisões apresentando, assim,
-meios de auxliar o usário quanto a gestão das vendas em tempo real. 
+meios de auxliar o usuário quanto a gestão das vendas em tempo real. 
 
 
 ## Situação atual e justificativa do projeto
 
 O projeto terá início com base no aprendizado do curso Programador de
-Dispositivos Móveis, sendo assim motivado pela necessidade latente da gestão de vendas online em tempo real através de dispositivos móveis pelos proprietários de estabelecimentos comerciais, de uma forma geral.
+Dispositivos Móveis, sendo assim motivado pela necessidade latente da gestão de vendas online e em tempo real através de dispositivos móveis pelos proprietários de estabelecimentos comerciais, de uma forma geral.
 
 
 ## Objetivos SMART e critérios de sucesso do projeto
